@@ -60,3 +60,5 @@ echo "ro.build.characteristics=$TARGET_AAPT_CHARACTERISTICS"
 echo "ro.sm.device=$SM_DEVICE"
 
 echo "# end build properties"
+
+echo "ro.build.product=clark"
